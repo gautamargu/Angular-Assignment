@@ -1,0 +1,70 @@
+/* Custom CSS styles for the view component */
+
+div {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #d1c4c4; */
+    background-image: linear-gradient(#FFDEE9,#B5FFFC);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1 {
+    font-size: px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #212e3b; /* Blue color for the title */
+    margin-bottom: 15px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+li {
+    margin-bottom: 15px;
+}
+li strong {
+    font-weight: bold;
+    color: #333; 
+}
+/* Stylish border for the data details */
+ul {
+    border: 2px solid #858e97;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    flex-flow: column;
+    font-size: 24px;
+    font-family: ui-serif;
+    justify-content: space-around;
+}
+/* Background colors for even and odd list items */
+li:nth-child(even) {
+    background-color: #f0f0f0; /* Light gray */
+}
+li:nth-child(odd) {
+    background-color: #f9f9f9; /* Lighter gray */
+}
+/* Responsive styling for smaller screens */
+@media (max-width: 768px) {
+div {
+width: 90%;
+}
+h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+}
+    

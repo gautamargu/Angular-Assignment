@@ -1,0 +1,76 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Vinita",
+      "address": "Gandhinagar",
+      "dob": "2003-01-11",
+      "gender": "Female",
+      "role": "A"
+    },
+    {
+      "id": 2,
+      "name": "Sakshi",
+      "address": "Azamgarh",
+      "dob": "2003-08-20",
+      "gender": "Female",
+      "role": "B"
+    },
+    {
+      "id": 3,
+      "name": "Pratap Singh",
+      "address": "Udaipur",
+      "dob": "2001-09-21",
+      "gender": "Male",
+      "role": "A"
+    },
+    {
+      "id": 4,
+      "name": "Gautam Kumar",
+      "address": "Gandhinagar",
+      "dob": "2000-02-29",
+      "gender": "Male",
+      "role": "C"
+    },
+    {
+      "id": 5,
+      "name": "Deepak",
+      "address": "Mumbai",
+      "dob": "2002-09-06",
+      "gender": "Male",
+      "role": "B"
+    },
+    {
+      "id": 6,
+      "name": "Varsha",
+      "address": "Lucknow",
+      "dob": "2004-07-29",
+      "gender": "Female",
+      "role": "C"
+    },
+    {
+      "name": "breAD",
+      "address": "Gandhinagar, Gujarat",
+      "dob": "2023-09-07",
+      "role": 2,
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "address": "vrth78kh",
+      "dob": "2023-09-01",
+      "role": 6,
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "name": "Gautam Kumar",
+      "address": "Ranchi ",
+      "dob": "2023-09-30",
+      "role": 50,
+      "gender": "male",
+      "id": 9
+    }
+  ]
+}

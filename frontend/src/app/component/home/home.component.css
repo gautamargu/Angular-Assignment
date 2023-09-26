@@ -1,0 +1,52 @@
+.container{
+  min-height: 100vh;
+}
+
+table {
+    border-collapse: collapse; 
+    width: 100%; 
+    border: 1px solid #dddddd; 
+  }
+  
+ 
+  table th {
+    background-color: #f2f2f2;
+    text-align: left; 
+    padding: 8px; 
+  }
+  
+  
+  table td {
+    border: 1px solid #dddddd; 
+    text-align: left; 
+    padding: 8px; 
+  }
+
+.action{
+  margin-right: 20px;
+}
+
+.act{
+   width:200px;
+}
+
+.bn{
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+/* style for add user */
+h1{
+  font-family: auto;
+  font-size: 30px;
+  display: contents;
+  /* margin-right: 10px; */
+}
+.button-container{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+
